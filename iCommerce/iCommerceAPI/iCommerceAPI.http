@@ -1,0 +1,6 @@
+@iCommerceAPI_HostAddress = http://localhost:5196
+
+GET {{iCommerceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
